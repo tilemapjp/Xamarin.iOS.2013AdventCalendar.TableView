@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewTest/SecondViewController.cs">
+    <Files>
+      <File FileName="TableViewTest/AppDelegate.cs" Line="40" Column="1" />
+      <File FileName="TableViewTest/FirstViewController.cs" Line="100" Column="20" />
+      <File FileName="TableViewTest/SecondViewController.cs" Line="87" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Parse/ParseiOSStarterProject/AppDelegate.cs" line="170" offsetX="491" offsetY="2535" expression="obj" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
